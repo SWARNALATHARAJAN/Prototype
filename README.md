@@ -50,7 +50,7 @@ Figma: For UI/UX design, prototyping, and component creation.
 FigJam: For initial brainstorming and wireframing (optional).
 
 💻 Live Prototype Preview
-👉 Click here to view the live prototype on Figma
+👉 Click here to view the live prototype on Figma:https://www.figma.com/proto/bqAErKliO9VdperCUVHgQ0/Prototype-udemy?node-id=1-1194&t=l6RW22bu0uEgh8cF-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A1194&show-proto-sidebar=1
 
 🚀 What I Learned
 Improved knowledge in design consistency and spacing.
